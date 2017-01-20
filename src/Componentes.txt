@@ -1,0 +1,11 @@
+Java Development Kit o (JDK), es un software que provee herramientas de desarrollo para la creación de programas en Java.
+ Puede instalarse en una computadora local o en una unidad de red.
+
+El JRE (Java Runtime Environment)es una máquina virtual de Java y su función es hacer de intermediario entre 
+una aplicación programada en Java y el sistema operativo que se este usando. 
+De este modo, cualquier aplicación puede funcionar en cualquier sistema operativo que disponga del JRE.
+
+Una máquina virtual Java (en inglés Java Virtual Machine, JVM) es una máquina virtual de proceso nativo, 
+es decir, ejecutable en una plataforma específica, capaz de interpretar 
+y ejecutar instrucciones expresadas en un código binario especial (el bytecode Java), 
+el cual es generado por el compilador del lenguaje Java.
